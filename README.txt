@@ -1,2 +1,3 @@
 This is game "Glimmer Lab" of iGEM2023 team "BJEA-China"
-It initial deployed on my personal server, but the server is now repairing, so it is now temporarily hosted on github.
+It initial deployed on my personal server, but the server is currently broke, so it is now hosted on github.
+It will back to our own server until the server fixed.  // Hope it can be fix……
